@@ -3,4 +3,5 @@ added one page
 switched to new branch
 switched to feature-branch
 
+new page added
 
